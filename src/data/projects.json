@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Clinic Laib",
+    "imageSrc": "projects/laib.jpg",
+    "description": "Book doctor appointments, buy medical products, and register for courses — all at Laib Clinic..",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://laibclinic.com/",
+    "source": "https://github.com/amineallioua/laib-clinique-front.git"
+  },
+  {
+    "title": "reservez",
+    "imageSrc": "projects/res.jpg",
+    "description": "Reservez lets you book doctors, hotels, and services easily in one platform.",
+    "skills": ["Vue", "Express", "Node", "Tailwind"],
+    "demo": "https://réservez.com/",
+    "source": "https://github.com/amineallioua/Hotel-project.git"
+  },
+  {
+    "title": "Antic",
+    "imageSrc": "projects/antic.jpg",
+    "description": "Antic showcases elegant and timeless room designs..",
+    "skills": ["Nuxt","Tailwind", "Express", "Node"],
+    "demo": "https://originiva-test2.onrender.com/",
+    "source": "https://github.com/amineallioua/originiva-test-responsive-landingPage.git"
+  }
+]
